@@ -4,7 +4,8 @@ Please carefully read the instructions below and complete.
 
 - You must create a simple React.js based app that displays data return from a JSON API.  
 - Start by downloading or forking this repository
-- Included is an empty React.JS application that was created using the npx create-react-app command.
+- Included is an React.JS application that was created using the npx create-react-app command.
+- This applications has two empty components "ItemsList" and "Details", you may create additional components if you want to but this is not mandatory.
 - When you are done share your forked repo or send up a zipped up version of your app
 
 ## Notes
@@ -14,9 +15,9 @@ Please carefully read the instructions below and complete.
 
 ## Requirements
 - Make an API request to GET the data from the following endpoint: http://img.staging.medscape.com/pi/iphone/testassets/sampleData.json
-- Display the title fields as a group of selectable list items
-- On Desktop clicking on one of these list items will display the "data" object in a master detail view
-- On mobile clicking on the title fields in the list item should redirect the user to a detail page (this page should have a means of navigating back)
+- Display the title fields as a group of selectable list items in the "ItemsList" component
+- On Desktop clicking on one of these list items will display the "data" object in a master detail view style using the "ItemsList" and "Details" components next to each other
+- On mobile clicking on the title fields in the list item should redirect the user to a page that includes the "Details" component (this page should have a means of navigating back)
 - Not all items in the JSON result will have all fields, fields that are empty should be hidden in the details
 - Items without a "title" should not be shown at all
 - If there is an image associate with an item, display it at the top of the details
