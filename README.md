@@ -20,6 +20,7 @@ Please carefully read the instructions below and complete.
 - Not all items in the JSON result will have all fields, fields that are empty should be hidden in the details
 - Items without a "title" should not be shown at all
 - If there is an image associate with an item, display it at the top of the details
+- Use css to create some basic styling, how it looks is entirely up to you
 
 ## Optional
 - Include any tests you deem appropriate 
