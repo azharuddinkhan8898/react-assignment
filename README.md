@@ -14,6 +14,7 @@ Please carefully read the instructions below and complete.
 - Any details not specified in the requirements can be decided by you
 
 ## Requirements
+- If you are more comfortable using JavaScript or css supersets and/or syntactic sugar (i.e. Typescript, Coffeescript, Sass, Less, etc) feel free to use them, however none of these are required, please use whatever you are most comfortable with
 - Make an API request to GET the data from the following endpoint: http://img.staging.medscape.com/pi/iphone/testassets/sampleData.json
 - Display the title fields as a group of selectable list items in the "ItemsList" component
 - On Desktop clicking on one of these list items will display the "data" object in a master detail view style using the "ItemsList" and "Details" components next to each other
