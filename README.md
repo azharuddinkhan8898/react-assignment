@@ -5,7 +5,7 @@ Please carefully read the instructions below and complete.
 - You must create a simple React.js based app that displays data return from a JSON API.  
 - Start by downloading or forking this repository
 - Included is an React.JS application that was created using the ```npx create-react-app``` command.
-- This application has two empty components "ItemsList" and "Details", you may create additional components if you want to but this is not mandatory.
+- This application has two empty components "ItemsList" and "Details", you may create additional components if you want to but it is not mandatory.
 - When you are done share your forked repo or send up a zipped up version of your app
 
 ## Notes
