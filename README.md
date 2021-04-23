@@ -13,6 +13,6 @@ npm run build
 ```
 
 ## Notes
-- Please refresh page after resizing browser window for mobile view.
-- I have used few element (button) and colors from https://www.webmd.com/ to make it look familiar. 
-- Used image as background image for card to utilise the white space in the image.
+- Please refresh the page after resizing the browser window for mobile view.
+- I have used a few elements (button) and colors from https://www.webmd.com/ to make it look familiar. 
+- Used image as a background image for the card to utilize the white space in the image.
